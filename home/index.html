@@ -3,6 +3,7 @@
 <head>
   <title>My first Vue page</title>
   <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/flexbox-grid.css?version=0.1">
 </head>
 <body>
     <header id="header">
@@ -69,11 +70,12 @@
   </div>
   </section>
 
-<div id="app">
+<script src="js/vue.js"></script><div id="app">
   {{ message }} <br>
   {{'Random number: ' + Math.ceil(Math.random()*6) }}
 </div>
 
+<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
 <script src="js/vue.js"></script>
 
 </body>
