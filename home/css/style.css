@@ -64,7 +64,6 @@ ul li {
 .gallery-container {
   display: flex;
   justify-content: center;
-  flex-wrap: wrap;
   gap: 20px;
   padding: 20px;
   margin-bottom: 10px;
