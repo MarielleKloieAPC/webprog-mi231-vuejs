@@ -54,11 +54,13 @@ p {
   line-height: 15px;
 }
 
-ul li {
+#education ul li, #experience ul li, #hobbies ul li {
   list-style-type: square;
   margin-top: 10px;
   font-size: 20px;
   text-align: left;
+  background-color: transparent;
+  border: none;
 }
 
 .gallery-container {
