@@ -1,7 +1,7 @@
 <template>
     <div class="apple">
-      <h2>{{ name }}</h2>
-      <p>{{ message }}</p>
+      <h2 class="p">{{ name }}</h2>
+      <p class="p">{{ message }}</p>
     </div>
   </template>
   
