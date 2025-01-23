@@ -67,7 +67,7 @@
             <h4>Picture Gallery</h4>
             <figure class="gallery">
             <img style="display: block; -webkit-user-select: none; margin: auto; cursor: zoom-in; background-color: hsl(0, 0%, 90%); transition: background-color 300ms;" 
-            src="https://scontent.fmnl30-2.fna.fbcdn.net/v/t39.30808-6/434020930_1612143012920404_5536001369734743984_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFpusV_6JVyaxws8ggG0-Bo624VRVXpZdTrbhVFVell1FAC2D5aeBtw1O23QgywZeUtoMXCJaY3s_SQZh7xXhes&_nc_ohc=x_KTkJh0awsQ7kNvgHRlQDm&_nc_oc=AdhDnpaYtuX8gIy1jm_LnOFCi5UXA7FBvBlSCeF0deNtC-M45UUnUoW4s3d0BqdOsNE&_nc_zt=23&_nc_ht=scontent.fmnl30-2.fna&_nc_gid=AMxW7YQ9KcK7FyQ3kcpE7NA&oh=00_AYC1OAbxZoRtAUhBr7Ahewf_FmENBQV7n9TeGyulTfo3vw&oe=678053FE" 
+            src="https://scontent.fmnl30-2.fna.fbcdn.net/v/t39.30808-6/434020930_1612143012920404_5536001369734743984_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFpusV_6JVyaxws8ggG0-Bo624VRVXpZdTrbhVFVell1FAC2D5aeBtw1O23QgywZeUtoMXCJaY3s_SQZh7xXhes&_nc_ohc=cBmHelPdFdsQ7kNvgHLMw4W&_nc_oc=Adg7GB0XkNaQ5MHV0udhFZCT3poLNEvlQ2VXsenhQjFPUD-l4_ziyd3lyf5AXlIYVsM&_nc_zt=23&_nc_ht=scontent.fmnl30-2.fna&_nc_gid=AIok_WeuKmwsEyF8Ib7wB7z&oh=00_AYAdUZLBfRGqFIGXvDnVkLShaGS0ondEn78nJkjnb1Uqdg&oe=6798473E" 
             width="533" height="300" alt="Gallery Image">
             </figure>
             </div>
