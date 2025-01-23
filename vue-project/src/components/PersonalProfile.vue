@@ -4,7 +4,6 @@
             <h1>Personal Profile Webpage</h1>  
         </header>
         <main>
-          <section class="main-content">
             <div>
             <h2>About Me</h2>
             <p>Hello! My username is MarielleKloie, this is my personal profile web page.<br><br>I aspire to be an Information Technology Specialist, a position that can hone me into the best employee I can be, versatile and efficient enough to be showcased in the industry today. Being in a working environment will encourage me to be confident and true to myself.</p>
@@ -72,18 +71,11 @@
             width="533" height="300" alt="Gallery Image">
             </figure>
             </div>
-          </section>
-          <aside class="sidebar">
-            </aside>
         </main>
       </div>
     </template>
     
-    <script>
-    export default {
-        name: 'App',
-    };
-    </script>
+    <script></script>
     
     <style>
     body {
