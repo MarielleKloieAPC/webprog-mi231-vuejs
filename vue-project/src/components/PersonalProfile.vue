@@ -1,6 +1,8 @@
 <template>
     <div class="container">
-        <header> <h1>Personal Profile Webpage</h1>  </header>
+        <header> 
+            <h1>Personal Profile Webpage</h1>  
+        </header>
         <main>
           <section class="main-content">
             <div>
@@ -77,7 +79,12 @@
       </div>
     </template>
     
-    <script></script>
+    <script>
+    export default {
+        name: 'App',
+    };
+    </script>
+    
     <style>
     body {
       background: linear-gradient(to bottom, #DEC6FF, #AE74FF);
@@ -87,28 +94,9 @@
       padding: 0;
     }
     
-    header {
-      color: white;
-      padding: 30px;
-      text-align: center;
-      position: sticky;
-      font-size: 20px;
-    }
-    
-    header.hidden {
-      top: -80px;
-    }
-    
-    header h1 {
-      
-    }
-    
     h1, h2, h3, h4, p, li, .a, .b {
       font-family: "Baskerville", serif;
-      padding:;
-    }
-    
-    
+    }    
     
     h1 {
       border-radius: 2px;

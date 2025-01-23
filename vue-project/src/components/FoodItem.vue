@@ -1,7 +1,7 @@
 <template>
     <div class="apple">
-      <h2 class="c">{{ name }}</h2>
-      <p class="p">{{ message }}</p>
+      <h2>{{ name }}</h2>
+      <p>{{ message }}</p>
     </div>
   </template>
   
@@ -24,7 +24,4 @@
         padding: 10px;
         background-color: lightgreen;
     }
-  .c, .p{
-  font-family: "Baskerville", serif;
-  }  
 </style>
