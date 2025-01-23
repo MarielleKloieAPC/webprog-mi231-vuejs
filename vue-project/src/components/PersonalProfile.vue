@@ -75,7 +75,11 @@
       </div>
     </template>
     
-    <script></script>
+    <script>
+        export default {
+            name: 'PersonalProfile',
+        };
+    </script>
     
     <style>
     body {
@@ -88,7 +92,11 @@
     
     h1, h2, h3, h4, p, li, .a, .b {
       font-family: "Baskerville", serif;
-    }    
+    }
+    
+    .container {
+        padding: 20px;
+    }
     
     h1 {
       border-radius: 2px;
