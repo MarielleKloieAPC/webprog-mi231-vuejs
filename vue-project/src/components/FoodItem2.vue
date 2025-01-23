@@ -1,7 +1,7 @@
 <template>
     <div class="mango">
-      <h2 class="p">{{ name }}</h2>
-      <p class="p">{{ message }}</p>
+      <h2 class="c">{{ name }}</h2>
+      <p class="c">{{ message }}</p>
     </div>
   </template>
   

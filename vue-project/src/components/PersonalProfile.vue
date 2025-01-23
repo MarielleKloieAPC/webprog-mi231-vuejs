@@ -153,6 +153,10 @@
       line-height: 1.5;
       color: #4a2a80;
     }
+
+    .c{
+        font-family: "Baskerville", serif;
+    }
     
     .paragraph {
       font-family: "Baskerville", serif;
