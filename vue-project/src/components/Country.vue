@@ -1,5 +1,5 @@
 <template>
-    <h1>Countries</h1>
+    <h2>Countries</h2>
     <ul>
       <li v-for="country in countries" :key="country.id">{{ country.name }}</li>
     </ul>
