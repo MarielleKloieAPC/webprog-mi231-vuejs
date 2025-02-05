@@ -90,7 +90,7 @@
       padding: 0;
     }
     
-    h1, h2, h3, h4, p, li, .a, .b {
+    h1, h2, h3, h4, h5, p, li, .a, .b {
       font-family: "Baskerville", serif;
     }
     
@@ -130,6 +130,14 @@
       border-radius: 2px;
       padding: 15px;
       text-align: center;
+      font-size: 26px;
+      color: #4a2a80;
+    }
+
+    h5 {
+      border-radius: 2px;
+      padding: 10px;
+      text-align: left;
       font-size: 26px;
       color: #4a2a80;
     }
