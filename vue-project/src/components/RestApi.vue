@@ -1,6 +1,6 @@
 <template>
     <div>
-      <h2>JSONPlaceholder API Demo</h2>
+      <h5>JSONPlaceholder API Demo</h5>
   
       <div v-if="loading">Loading...</div>
       <div v-if="error">{{ error }}</div>
